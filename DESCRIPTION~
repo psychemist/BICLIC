@@ -1,0 +1,13 @@
+Package: BICLIC
+Type: Package
+Title: Biclustering for the comprehensive search of correlated gene expression patterns using clustered seed expansion
+Version: 1.0
+Date: 2012-10-11
+Author: Taegyun Yun, Gwan-Su Yi
+Maintainer: Taegyun Yun <bacillus@kaist.ac.kr>
+Description: BICLIC (BIclustering by Correlation and Large number of Individual Clustered Seed) 
+is novel biclustering algorithm 
+for searching comprehensive sets of biclusters by using clustered seeds and their
+ expansion with the correlation of gene expression
+License: GPL-2
+LazyLoad: yes
